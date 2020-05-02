@@ -2,3 +2,4 @@ manzanas
 aceite 
 sal
 zanahorias
+judias
